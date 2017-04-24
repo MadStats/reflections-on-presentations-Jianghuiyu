@@ -61,3 +61,60 @@ What were aspects of the presentations for which you had concerns or questions:
 
 Make the story more interesting.
 
+
+Title of presentation:Game
+
+What were aspects of the presentation that you liked:
+
+Nice way of presentation.
+
+What were aspects of the presentations for which you had concerns or questions:
+
+Lack of visualization and the model doesn't consider interaction.
+
+
+Title of presentation:H1B
+
+What were aspects of the presentation that you liked:
+
+Nice plots.
+
+What were aspects of the presentations for which you had concerns or questions:
+
+The reality explanation of your model.
+
+
+Title of presentation:Car accident
+
+What were aspects of the presentation that you liked:
+
+Complete and comprehensive analysis.
+
+What were aspects of the presentations for which you had concerns or questions:
+
+Make it more interesting.
+
+
+Title of presentation:Songs
+
+What were aspects of the presentation that you liked:
+
+Funny plots.Interesting story.
+
+What were aspects of the presentations for which you had concerns or questions:
+
+Perfect.
+
+
+
+Title of presentation:Terrorism
+
+What were aspects of the presentation that you liked:
+
+Passionate and good model explanation.
+
+What were aspects of the presentations for which you had concerns or questions:
+
+
+
+
